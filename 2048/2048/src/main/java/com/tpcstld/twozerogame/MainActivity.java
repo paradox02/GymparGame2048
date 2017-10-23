@@ -60,6 +60,7 @@ public class MainActivity extends AppCompatActivity {
     public void onSaveInstanceState(Bundle savedInstanceState) {
         savedInstanceState.putBoolean("hasState", true);
         save();
+        super.onSaveInstanceState(savedInstanceState);
     }
 
     protected void onPause() {
