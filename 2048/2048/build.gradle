@@ -9,6 +9,7 @@ android {
         targetSdkVersion 26
         versionCode 21
         versionName "1.1.5"
+        applicationId "com.tpcstld.twozerogame"
     }
     buildTypes {
         release {
