@@ -1,4 +1,6 @@
 2048
+-----
+updated version with custom images
 ====
 
 This is a port of Gabriele Cirulli's 2048 game to Android.
